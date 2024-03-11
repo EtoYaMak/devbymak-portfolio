@@ -127,13 +127,14 @@ function Projects() {
               imagePath="../../assets/skillmintImageH1.jpg"
               title="Skillmint"
               stack="React, MERN stack, AWS-sdk, TailwindCSS"
-              tag="In development"
+              tag="LIVE"
               description="Elevate your career journey. A ReactJS-powered job portal connecting graduates with opportunities worldwide. Your next step begins here."
               websiteUrl="https://skillmint.io"
             />
             <ProjectCard
               imagePath="../../assets/nexgenImage.jpg"
               title="NEXGEN Cyber Solutions"
+              tag="LIVE"
               stack="ReactJS, Next.js, TailwindCSS"
               description="Revolutionize online presence with NEXGEN Cyber Solutions. I architected their website using React, Next.js, and Tailwind CSS—merging innovation and precision for a seamless digital experience."
               websiteUrl="https://nexgencybersolutions.co.uk/"
@@ -141,6 +142,7 @@ function Projects() {
             <ProjectCard
               imagePath="../../assets/cyberawareImage1.jpg"
               title="CyberAware"
+              tag="LIVE"
               stack="React, TypeScript, TailwindCSS"
               description="Transforming cybersecurity insights into action. My dissertation's essence captured in a dynamic website, a proactive shield against rising cyber threats for individuals and SMEs. Level up your cybersecurity game today."
               websiteUrl="https://cyberaware-c5jddxd6b-etoyamak.vercel.app/"

@@ -80,7 +80,7 @@ function Work() {
         {/* Cards */}
         <div className="flex flex-wrap  mx-auto  w-[80%] sm:w-[60%] max-w-7xl justify-center gap-4">
           <WorkCard
-            date2={`2023`}
+            date2={`2022`}
             date1={`Present`}
             logo="skillmint_logo.jpg"
             logoW={`w-[55.99px] h-[55.99px] object-cover`}
